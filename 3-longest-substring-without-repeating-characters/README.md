@@ -35,6 +35,6 @@ Constraints:
 ---
 
 **Difficulty:** Medium  
-**Runtime:** 188 ms  
+**Runtime:** 179 ms  
 **Memory:** 19.9 MB  
 **Link:** [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
